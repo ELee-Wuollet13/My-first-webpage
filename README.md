@@ -4,7 +4,9 @@
 
 #### By Everett Lee-Wuollet, Mike Lofgren
 
-## Description This application bring up the amateur website 'My-First-Webpage' which has a picture of a flower and a link to 'My-favorite-things'.
+## Description
+
+This application bring up the amateur website 'My-First-Webpage' which has a picture of a flower and a link to 'My-favorite-things'.
 
 ## Setup/Installation Requirements
 
